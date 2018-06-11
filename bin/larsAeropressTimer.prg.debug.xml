@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="32" pc="268435456" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="33" pc="268435460" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="34" pc="268435483" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="35" pc="268435505" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="38" pc="268435529" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="39" pc="268435533" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="42" pc="268435552" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="43" pc="268435592" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="44" pc="268435608" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="45" pc="268435624" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="46" pc="268435651" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="47" pc="268435691" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="48" pc="268435707" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="49" pc="268435723" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="50" pc="268435750" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="51" pc="268435790" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="52" pc="268435806" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="53" pc="268435822" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="54" pc="268435849" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="55" pc="268435889" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="56" pc="268435905" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="57" pc="268435918" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="58" pc="268435936" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="61" pc="268435963" symbol="callback1"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="64" pc="268435980" symbol="onLayout"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="67" pc="268435985" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="68" pc="268435989" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="69" pc="268436023" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="71" pc="268436064" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="73" pc="268436080" symbol="startTimer"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="76" pc="268436105" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="77" pc="268436109" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="78" pc="268436132" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="81" pc="268436132" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="83" pc="268436152" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="84" pc="268436172" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="86" pc="268436188" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="88" pc="268436208" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="89" pc="268436228" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="91" pc="268436244" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="93" pc="268436264" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="94" pc="268436284" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="96" pc="268436300" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="98" pc="268436320" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="99" pc="268436340" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="101" pc="268436356" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="103" pc="268436376" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="104" pc="268436396" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="106" pc="268436412" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="108" pc="268436425" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="109" pc="268436445" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="114" pc="268436461" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="115" pc="268436497" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="116" pc="268436509" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="117" pc="268436541" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="118" pc="268436557" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="119" pc="268436623" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerView.mc" lineNum="120" pc="268436639" symbol="onUpdate"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="11" pc="268436700" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="12" pc="268436704" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="13" pc="268436727" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="14" pc="268436749" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="18" pc="268436773" symbol="onStart"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="22" pc="268436778" symbol="onStop"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="26" pc="268436783" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="27" pc="268436787" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="28" pc="268436811" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerApp.mc" lineNum="30" pc="268436834" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="13" pc="268436884" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="15" pc="268436888" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="16" pc="268436911" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="17" pc="268436933" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="20" pc="268436944" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="21" pc="268436948" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="22" pc="268436966" symbol="onMenu"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="25" pc="268436970" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="26" pc="268436974" symbol="onSelect"/>
+<entry filename="/home/lars/eclipse-workspace/larsAeropressTimer/./source/larsAeropressTimerDelegate.mc" lineNum="27" pc="268436992" symbol="onSelect"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="22" object="true" symbol="larsAeropressTimerApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="9" symbol="dataColor"/>
+<entry field="true" id="10" symbol="vibrateData"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="19" symbol="limitPour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="13" symbol="POUR2"/>
+<entry field="true" id="12" symbol="POUR1"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="20" symbol="limitSteep"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="28" method="true" symbol="startTimer"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry field="true" id="17" symbol="sTimerState"/>
+<entry field="true" id="16" symbol="mTimerState"/>
+<entry field="true" id="15" symbol="DRINK"/>
+<entry field="true" id="27" symbol="mParentView"/>
+<entry id="21" object="true" symbol="larsAeropressTimerView"/>
+<entry id="24" module="true" symbol="Layouts"/>
+<entry field="true" id="18" symbol="limitWait"/>
+<entry field="true" id="14" symbol="STEEP"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry field="true" id="8389850" symbol="count"/>
+<entry id="23" module="true" symbol="Menus"/>
+<entry field="true" id="11" symbol="WAIT"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435985" name="dc" stackId="1" startPc="268435980"/>
+<entry endPc="268436699" name="string" stackId="2" startPc="268436109"/>
+<entry endPc="268436700" name="dc" stackId="1" startPc="268436105"/>
+<entry endPc="268436778" name="state" stackId="1" startPc="268436773"/>
+<entry endPc="268436783" name="state" stackId="1" startPc="268436778"/>
+<entry endPc="268436883" name="mTimerView" stackId="1" startPc="268436787"/>
+<entry endPc="268436944" name="view" stackId="1" startPc="268436884"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="larsAeropressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="callback1" parent="larsAeropressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="larsAeropressTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="startTimer" parent="larsAeropressTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="larsAeropressTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="larsAeropressTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="larsAeropressTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="larsAeropressTimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="larsAeropressTimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="InputDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="294" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="373" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="412" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="443" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="505" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="536" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="575" parentId="globals" symbolId="larsAeropressTimerApp" type="class"/>
+<dataEntry offset="646" parentId="globals" symbolId="InputDelegate" type="class"/>
+<dataEntry offset="717" parentId="globals" symbolId="larsAeropressTimerView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
